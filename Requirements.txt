@@ -1,0 +1,9 @@
+Additional Requirement Package
+
+pathlib2
+pandas
+numpy
+statsmodels
+matplotlib
+seaborn
+plotly
