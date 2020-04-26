@@ -1,4 +1,4 @@
-# Python Project_Data Analysis:Bugs
+# Python Project_Data Analysis: Bugs
 
 This project is a final programming assignment for Introduction to Python class.
 
