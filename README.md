@@ -1,6 +1,6 @@
 # Python Project_Data Analysis: Bugs
 
-This project is a final programming assignment for Introduction to Python class by Chanida Chayopathum
+This project is a final programming assignment for Introduction to Python class
 
 This program analyse data from a single csv file and return the results.
 The list of analysis as following
